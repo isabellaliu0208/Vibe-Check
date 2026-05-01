@@ -22,6 +22,6 @@ Vibe-Check/
 # Division of Labor (alphabetical by last name)
 - **Zeyue Xu**: Clustering, neighborhood ranking, and evaluation
 - **Joseph Zhang**: Frontend / backend integration, app structure
-- **Isabella Liu**: Repository organization, README/design document, requirements/setup, and checkpoint submission polishing
+- **Isabella Liu**: Repository organization, README/setup instructions, requirements documentation, Mac environment testing, and end-to-end app verification
 - **Yujia Guo**: Data collection and preprocessing of NYC 311 records
 - **Jinyu Zheng**: Embedding-based complaint matching and similarity pipeline
